@@ -1,5 +1,3 @@
-package RemoveLinkedListEleents;
-
 /**
  * 删除一个结点，需要知道此结点的前驱结点，
  * 由于首结点没有前驱，所以首结点需要特殊处理一下。
